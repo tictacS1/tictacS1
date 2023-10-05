@@ -1,5 +1,3 @@
-[sorcière](https://github.com/tictacS1/tictacS1/assets/135613653/37897977-5299-4c0d-92bf-6624b0b0177f)
-
 👋 
 
 I am Malick Gondy 😃. I am from Lens, France and currently learning for my professional designation (DWWM). I love computers and I read a lot about history.
