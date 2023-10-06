@@ -3,13 +3,13 @@
 
 👋
 
-I am Malick Gondy 😃. I am from Lens, France and currently learning for my professional designation (DWWM). I love computers and I read a lot about history.
+I am Malick Gondy 😃.
 
 &nbsp;
 
-&nbsp;
+I am from Lens, France and currently learning for my professional designation (DWWM). 
 
-&nbsp;
+I love computers and I read a lot about history !
 
 ## ⚡ Technologies!
 
