@@ -1,7 +1,7 @@
 
 <img src="media/sorciere.gif" width="175" height="220" align='right'>
 
-👋
+Hi ! 👋
 
 I am Malick Gondy 😃.
 
