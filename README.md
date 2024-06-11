@@ -1,22 +1,21 @@
 
 <img src="media/sorciere.gif" width="175" height="220" align='right'>
 
-👋
+Hi ! 👋
 
-I am Malick Gondy 😃. I am from Lens, France and currently learning for my professional designation (DWWM). I love computers and I read a lot about history.
-
-&nbsp;
+I am Malick Gondy 😃.
 
 &nbsp;
 
-&nbsp;
+I am from Lens, France and currently learning for my professional designation (DWWM). 
+
+I love computers and I read a lot about history !
 
 ## ⚡ Technologies!
 
 Currently mastering:
 
-Front-end development using **HTML, Javascript, CSS, REACT**.
-
+- Front-end development using **HTML, Javascript, CSS, REACT**.
 - Backend development using **Symfony**.
 - Database management using **MySQL, MariaDB**
 - Solving Data structure and algorithm questions in **PHP and Python**.
